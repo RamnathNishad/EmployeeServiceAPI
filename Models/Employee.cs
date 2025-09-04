@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 /// <summary>
-/// Employee Model
+/// Employee Model class representing an employee entity in the system.
 /// </summary>
 namespace EmployeeServiceAPI.Models
 {
