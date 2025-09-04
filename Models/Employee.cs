@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 /// <summary>
-/// Employee Model class representing an employee entity in the system.
-/// aaa
+/// Represents an employee entity in the system, containing information such as employee name, salary, and department ID.
+/// This model is used to store and manage employee data within the application.
 /// </summary>
 namespace EmployeeServiceAPI.Models
 {
