@@ -1,6 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
+/// <summary>
+/// Employee Model
+/// </summary>
 namespace EmployeeServiceAPI.Models
 {
     public class Employee
