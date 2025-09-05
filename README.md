@@ -54,6 +54,7 @@ The API will be available at:
 
 - [Usage Examples](./UsageExamples.md) - Detailed examples of API usage
 - [Changelog](./ChangeLog.md) - Version history and changes
+- [Code Review Guidelines](./REVIEW_GUIDELINES.md) - Standards and best practices for code reviews
 
 ## API Endpoints
 
