@@ -4,7 +4,7 @@
    - **Example:**
      ```typescript
      // Correct null check
-     if (employee != null) {
+     if (employee !== null && employee !== undefined) {
          console.log(employee.name);
      }
      // Incorrect: may throw error if employee is null
