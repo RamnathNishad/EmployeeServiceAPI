@@ -7,6 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace EmployeeServiceAPI.Models
 {
     //some comments
+    //comment2
     public class Employee
     {
         [Key]
